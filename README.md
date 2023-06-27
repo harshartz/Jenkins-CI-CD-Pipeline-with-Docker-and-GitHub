@@ -75,7 +75,7 @@ To install Docker, follow these steps:
 
 1. Install Docker:
     ```bash
-    sudo yum install docker
+    sudo yum install docker -y
     ```
 
 2. Enable Docker to start on system boot:
@@ -94,7 +94,7 @@ To install Git, follow these steps:
 
 1. Install Git:
     ```bash
-    sudo yum install git
+    sudo yum install git -y
     ```
 
 ### Additional Configuration
