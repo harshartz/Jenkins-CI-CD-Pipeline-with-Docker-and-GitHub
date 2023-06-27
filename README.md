@@ -100,7 +100,7 @@ To allow Jenkins to interact with Docker, execute the following command:
 ```bash
 sudo usermod -aG docker jenkins
 ```
-After executing the below command, restart Jenkins:
+After executing the above command, restart Jenkins:
 
 ```bash
 sudo systemctl restart jenkins
