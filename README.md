@@ -13,6 +13,13 @@ Before setting up the pipeline, ensure that you have the following prerequisites
 1. An Amazon EC2 Linux machine with Jenkins, Git, and Docker installed.
 2. A GitHub repository containing your application code and Dockerfile.
 
+## Project Pipeline Flowchart
+
+The CI/CD pipeline workflow is represented as follows:
+
+![Jenkins CI_CD Pipeline with Docker and GitHub](https://github.com/harshartz/Jenkins-CI-CD-Pipeline-with-Docker-and-GitHub/assets/130890384/ab868d34-cfc4-4079-95b8-0b584622add5)
+
+
 ## Installation Instructions
 
 ### Installing Jenkins
